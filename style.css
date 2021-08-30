@@ -1,0 +1,9 @@
+.objects{
+    background-color:aqua;
+    border-radius:30px ;
+    width:40%;
+    font-size:20px;
+}
+body{
+    background-size:cover;
+}
